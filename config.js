@@ -12,7 +12,7 @@ global.autoRecord = process.env.AUTO_RECORD === 'true';
 global.autoViewStatus = process.env.AUTO_VIEW_STATUS === 'true';
 global.AUTOSTATUS_REACT = process.env.AUTOSTATUS_REACT === 'true';
 global.autoLikeEmoji = process.env.AUTO_LIKE_EMOJI || "💚";
-global.session = process.env.S
+global.session = process.env.SESSION_ID === '
 
 global.LEVELUP = process.env.LEVELUP === 'true';
 
